@@ -1,6 +1,6 @@
 ### 🛡️ Search Skills
 
-**Room:** [Search Skills — TryHackMe](https://tryhackme.com/room/searchskills) 
+**Room:** [Search Skills — TryHackMe](https://tryhackme.com/room/searchskills)  
 **Status:** ✅ Completed  
 **Date:** May 12, 2025  
 
